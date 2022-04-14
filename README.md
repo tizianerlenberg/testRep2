@@ -29,4 +29,10 @@ if __name__ == '__main__':
 	main()
 ```
 
+### Tabelle:
+
+|  hallo | hi          |
+|----------------------|
+|  test1 | test2       |
+|  test3 | test4       |
 
